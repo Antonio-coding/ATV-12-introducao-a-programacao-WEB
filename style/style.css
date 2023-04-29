@@ -1,0 +1,26 @@
+mark {
+    background-color: limegreen;
+}
+
+body {}
+
+#index1 {
+    background-color: rgb(255, 0, 0);
+}
+
+#index2 {
+    background-color: rgb(255, 145, 0);
+}
+
+#index3 {
+    background-color: blue;
+    color: white;
+}
+
+#index4 {
+    background-color: rgb(0, 255, 149);
+}
+
+#index5 {
+    background-color: rgb(255, 0, 0);
+}
